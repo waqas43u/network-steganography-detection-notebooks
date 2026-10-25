@@ -1,0 +1,55 @@
+notebook,literal_csv_path_in_code
+3 Levels features Normal+ Covert(Preprocessing).ipynb,/content/DNS_Tunneling_Covert_traffic.csv
+3 Levels features Normal+ Covert(Preprocessing).ipynb,/content/dns_covert_10k.csv
+3 Levels features Normal+ Covert(Preprocessing).ipynb,/content/drive/MyDrive/3_levels_Protocol_Wise/DNS/dns_covert_labeled.csv
+3 Levels features Normal+ Covert(Preprocessing).ipynb,/content/drive/MyDrive/3_levels_Protocol_Wise/DNS/dns_normal_labeled.csv
+3 Levels features Normal+ Covert(Preprocessing).ipynb,/content/drive/MyDrive/3_levels_Protocol_Wise/ICMP/icmp_covert_labeled.csv
+3 Levels features Normal+ Covert(Preprocessing).ipynb,/content/drive/MyDrive/3_levels_Protocol_Wise/ICMP/icmp_normal_labeled.csv
+3 Levels features Normal+ Covert(Preprocessing).ipynb,/content/drive/MyDrive/3_levels_Protocol_Wise/TCP/tcp_normal_labeled.csv
+3 Levels features Normal+ Covert(Preprocessing).ipynb,/content/drive/MyDrive/3_levels_Protocol_Wise/TCP/tcp_stego_labeled.csv
+3 Levels features Normal+ Covert(Preprocessing).ipynb,/content/drive/MyDrive/3_levels_Protocol_Wise/UDP/udp_covert_labeled.csv
+3 Levels features Normal+ Covert(Preprocessing).ipynb,/content/drive/MyDrive/3_levels_Protocol_Wise/UDP/udp_normal_labeled.csv
+3 Levels features Normal+ Covert(Preprocessing).ipynb,/content/drive/MyDrive/Network_steganography_Project/FINAL_MASTER_RAW_DATASET.csv
+3 Levels features Normal+ Covert(Preprocessing).ipynb,/content/drive/MyDrive/Protocol-Wise/Protocol-Wise/ICMP/ICMP_Covert_Traffic.csv
+3 Levels features Normal+ Covert(Preprocessing).ipynb,/content/drive/MyDrive/Protocol-Wise/Protocol-Wise/ICMP/ICMP_Normal_Traffic.csv
+3 Levels features Normal+ Covert(Preprocessing).ipynb,/content/drive/MyDrive/Protocol-Wise/Protocol-Wise/TCP/tcp_covert.csv
+3 Levels features Normal+ Covert(Preprocessing).ipynb,/content/drive/MyDrive/Protocol-Wise/Protocol-Wise/UDP/DNS-Tunneling/Benign_DNS.csv
+3 Levels features Normal+ Covert(Preprocessing).ipynb,/content/drive/MyDrive/Protocol-Wise/Protocol-Wise/UDP/Self-Generated/Covert/UDP_covert.csv
+3 Levels features Normal+ Covert(Preprocessing).ipynb,/content/drive/MyDrive/Protocol-Wise/Protocol-Wise/UDP/Self-Generated/Normal/UDP_Normal.csv
+3 Levels features Normal+ Covert(Preprocessing).ipynb,/content/normal_tcp.csv
+3 Levels features Normal+ Covert(Preprocessing).ipynb,/content/preprocessed_master_dataset.csv
+3 Levels features Normal+ Covert(Preprocessing).ipynb,/content/udp_covert_labeled.csv
+Dataset_Network_StegAnalysis.ipynb,/content/CCtest_od_f2.csv
+Dataset_Network_StegAnalysis.ipynb,/content/CCtrain_od_f2.csv
+Dataset_Network_StegAnalysis.ipynb,/content/CCval_od_f2.csv
+Dataset_Network_StegAnalysis.ipynb,/content/Scenario-A-merged_5s.csv
+Dataset_Network_StegAnalysis.ipynb,/content/Scenario-B-merged_5s.csv
+Dataset_Network_StegAnalysis.ipynb,/content/UDP_Flow_Level_Features.csv
+Dataset_Network_StegAnalysis.ipynb,/content/chromeall.csv
+Dataset_Network_StegAnalysis.ipynb,/content/dns2tcpall.csv
+Dataset_Network_StegAnalysis.ipynb,/content/dnscat2all.csv
+Dataset_Network_StegAnalysis.ipynb,/content/drive/MyDrive/Dataset_Network_StegAnalysis/Covert-Traffic/CIC-Dataset-DoHBrw-2020 Dataset/MaliciousDoH_Covert_traffic.csv
+Dataset_Network_StegAnalysis.ipynb,/content/drive/MyDrive/Dataset_Network_StegAnalysis/Covert-Traffic/CICDatasetTor-NonTor-2017Dataset/Tor_Channel_Covert_traffic.csv
+Dataset_Network_StegAnalysis.ipynb,/content/drive/MyDrive/Dataset_Network_StegAnalysis/Covert-Traffic/DNS-TRANSFORMER-EMAIL-2023-RESEARCH-PAPER/DNS_Transformer_All_Covert_traffic.csv
+Dataset_Network_StegAnalysis.ipynb,/content/drive/MyDrive/Dataset_Network_StegAnalysis/Covert-Traffic/DNS-TUNNELING-KAGGLE/DNS_Tunneling_Covert_traffic.csv
+Dataset_Network_StegAnalysis.ipynb,/content/firefoxall.csv
+Dataset_Network_StegAnalysis.ipynb,/content/iodineall.csv
+Dataset_Network_StegAnalysis.ipynb,/content/normalandcovertIPv6packets.csv
+Dataset_Network_StegAnalysis.ipynb,/content/smtp_packet.csv
+Dataset_Network_StegAnalysis.ipynb,Generated_Normal_merged.csv
+Dataset_Network_StegAnalysis.ipynb,covert_dns_tunneling_3000_per_technique.csv
+Dataset_Network_StegAnalysis.ipynb,nocc_test_final.csv
+Dataset_Network_StegAnalysis.ipynb,nocc_train_final.csv
+Dataset_Network_StegAnalysis.ipynb,nocc_val_final.csv
+Final_Preprocessing.ipynb,/content/drive/MyDrive/Network_steganography_Project/FINAL_MASTER_RAW_DATASET.csv
+Final_Preprocessing.ipynb,/content/preprocessed_master_dataset.csv
+Final_Transformer_model.ipynb,C:\Users\Gpu\Desktop\Network Steganography\test_dataset.csv
+Final_Transformer_model.ipynb,C:\Users\Gpu\Desktop\Network Steganography\train_dataset.csv
+Preprocessing_new_Protocol-wise.ipynb,/content/drive/MyDrive/Protocol-Wise/Protocol-Wise/ICMP/ICMP_Covert_Traffic.csv
+Preprocessing_new_Protocol-wise.ipynb,/content/drive/MyDrive/Protocol-Wise/Protocol-Wise/ICMP/ICMP_Normal_Traffic.csv
+Preprocessing_new_Protocol-wise.ipynb,/content/drive/MyDrive/Protocol-Wise/Protocol-Wise/TCP/normal_tcp.csv
+Preprocessing_new_Protocol-wise.ipynb,/content/drive/MyDrive/Protocol-Wise/Protocol-Wise/TCP/tcp_covert.csv
+Preprocessing_new_Protocol-wise.ipynb,/content/drive/MyDrive/Protocol-Wise/Protocol-Wise/UDP/DNS-Tunneling/Benign_DNS.csv
+Preprocessing_new_Protocol-wise.ipynb,/content/drive/MyDrive/Protocol-Wise/Protocol-Wise/UDP/DNS-Tunneling/DNS_Covert.csv
+Preprocessing_new_Protocol-wise.ipynb,/content/drive/MyDrive/Protocol-Wise/Protocol-Wise/UDP/Self-Generated/Covert/UDP_covert.csv
+Preprocessing_new_Protocol-wise.ipynb,/content/drive/MyDrive/Protocol-Wise/Protocol-Wise/UDP/Self-Generated/Normal/UDP_Normal.csv
